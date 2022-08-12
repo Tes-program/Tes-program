@@ -35,6 +35,3 @@
 
 
 
-[twitter]: https://twitter.com/teslimodus23
-[instagram]: https://www.instagram.com/tee_roch
-[linkedin]: https://www.linkedin.com/in/teslim-odumuyiwa-154207182/
