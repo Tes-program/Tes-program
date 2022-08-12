@@ -6,7 +6,7 @@
 
 
 
-## I'm a Developer and a Student!!
+## I'm a Software Engineer and a Student!!
 
 - 🔭 Hi, I am Teslim Odumuyiwa
 - 🌱 I’m currently learning everything 🤣
