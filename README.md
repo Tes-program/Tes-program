@@ -1,4 +1,4 @@
-# Hi there, I'm Teslim Odumuyiwa - aka [Maths prodigy][youtube] 👋 
+# Hi there, I'm Teslim Odumuyiwa - aka [Maths prodigy]() 👋 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/teslimodus23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/teslimodus23)
