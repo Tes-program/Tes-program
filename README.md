@@ -10,7 +10,7 @@
 
 - 🔭 Hi, I am Teslim Odumuyiwa
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m a FullStack Developer
+- 👯 I’m a Software Engineer
 - 🥅 2022 Goals: Learn more about Data Structure and Algorithms
 - ⚡ Fun fact: I love to play games and think about our vast universe
 - ⚡ I you can check me out on twitter:https://twitter.com/teslimodus23, Linkedin:https://www.linkedin.com/in/teslim-odumuyiwa-154207182/, Instagram:https://www.instagram.com/tee_roch
